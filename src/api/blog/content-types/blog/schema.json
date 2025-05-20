@@ -42,7 +42,7 @@
           "localized": false
         }
       },
-      "required": false
+      "required": true
     },
     "content": {
       "type": "richtext",
